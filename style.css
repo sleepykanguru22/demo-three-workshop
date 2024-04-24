@@ -1,0 +1,26 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+html,
+body {
+  overflow: hidden;
+}
+
+.container {
+  width: 100vw;
+  height: 100vh;
+  background: linear-gradient(
+    109deg,
+    #ffb5dd 0.77%,
+    rgb(227, 222, 64) 104.92%,
+    rgb(221, 27, 215) 104.93%
+  );
+}
+
+.webgl {
+  position: fixed;
+  top: 0;
+  left: 0;
+  outline: none;
+}
