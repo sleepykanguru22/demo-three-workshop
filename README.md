@@ -1,3 +1,3 @@
-clone the repo
- npm install
- npm run dev
+### clone the repo
+### npm install
+### npm run dev
